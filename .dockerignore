@@ -1,0 +1,6 @@
+__pycache__/
+.git
+requests-examples.http
+README.md
+html/
+
